@@ -149,7 +149,6 @@ Then open your browser at:
 
 The interface is built with **Next.js** and **Tailwind CSS** to ensure:
 
-- 📱 Mobile-first, fully responsive design
 - 💬 Smooth animations and transitions
 - 🐿️ An **animated mascot** (MovingMascot) to greet users
 - 🎯 A **BlindDropdown** component with 5 engaging chat prompts
