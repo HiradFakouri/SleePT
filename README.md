@@ -228,5 +228,3 @@ This project was collaboratively developed by a team of five, combining expertis
 ## 🧾 License
 
 **MIT License** © 2025 — SleePT Development Team
-
-**MIT License** © 2025 — SleePT Development Team
