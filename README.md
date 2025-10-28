@@ -87,7 +87,6 @@ cd ../ && npm install
 
 ```env
 mongodbUrl=mongodb://127.0.0.1:27017/sleePT
-PORT=8082
 OPENAI_API_KEY=your_api_key_here
 ```
 
